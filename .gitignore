@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+data/reports/
+data/models/
+data/index/
+data/chunks.jsonl
+data/pages.jsonl
+data/tables.jsonl
+*.log
+*.cache
